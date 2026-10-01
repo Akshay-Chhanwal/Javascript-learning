@@ -1,0 +1,31 @@
+h1{
+    color: aqua;
+    background-color: rgb(11, 11, 10);
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(177, 106, 118);
+}
+
+.Starts{
+    color: black;
+    font-weight: 20px;
+    
+}
+.Def{
+   color: black;
+    font-weight: 20px;
+}
+
+.dom{
+    color: black;
+    font-weight: 20px;
+}
+img{
+   height: 300px;
+   width: 300px;
+   justify-content: center;
+  
+
+}
